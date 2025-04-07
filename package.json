@@ -31,9 +31,8 @@
     "url": "git+https://github.com/Expensify/react-native-qrcode-svg.git"
   },
   "files": [
-    "Example",
-    "screenshot",
-    "src",
+    "src/*.js",
+    "src/LogoSVG/*.js",
     "babel.config.js",
     "index.d.ts",
     "index.js",
